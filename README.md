@@ -8,5 +8,3 @@ Bulgac Roman, M534
 
 ## 🛠️ Tehnologii utilizate  
 - **Limbaje:** C#
-
-📁 **Contribuțiile și sugestiile sunt binevenite!** 🚀  
