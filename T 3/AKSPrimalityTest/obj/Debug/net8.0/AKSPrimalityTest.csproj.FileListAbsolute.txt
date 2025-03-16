@@ -1,0 +1,15 @@
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/bin/Debug/net8.0/AKSPrimalityTest
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/bin/Debug/net8.0/AKSPrimalityTest.deps.json
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/bin/Debug/net8.0/AKSPrimalityTest.runtimeconfig.json
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/bin/Debug/net8.0/AKSPrimalityTest.dll
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/bin/Debug/net8.0/AKSPrimalityTest.pdb
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.AssemblyInfoInputs.cache
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.AssemblyInfo.cs
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.csproj.CoreCompileInputs.cache
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.sourcelink.json
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.dll
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/refint/AKSPrimalityTest.dll
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.pdb
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/AKSPrimalityTest.genruntimeconfig.cache
+/Users/romanbulgac/Documents/University/Semestru VI/Criptografie/temele/T 3/AKSPrimalityTest/obj/Debug/net8.0/ref/AKSPrimalityTest.dll
