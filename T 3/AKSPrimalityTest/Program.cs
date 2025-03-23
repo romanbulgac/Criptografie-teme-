@@ -10,7 +10,7 @@ namespace AKSPrimalityTest
             Console.WriteLine("AKS Primality Test");
             Console.WriteLine("------------------");
 
-            int[] testNumbers = { 2, 3, 4, 5, 7, 11, 13, 15, 17, 19, 23, 25, 29, 31 };
+            int[] testNumbers = { 2, 3, 4, 5, 7, 11, 13, 15, 17, 19, 23, 25, 29, 31, (int)Math.Pow(2, 24) + 1 };
             foreach (int n in testNumbers)
             {
                 string result = AKS.IsPrime(n);
