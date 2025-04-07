@@ -170,7 +170,7 @@ namespace AKSPrimalityTest
             }
 
              if (BigInteger.Pow(2, bits-1) == n && n > 1) return bits -1;
-
+             return bits > 0 ? bits -1 : 0;
         }
 
         private static BigInteger BigIntSqrt(BigInteger n)
