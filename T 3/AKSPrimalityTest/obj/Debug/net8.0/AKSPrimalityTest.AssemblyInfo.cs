@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AKSPrimalityTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d25357e0e67a6811e19ce45f6528c32cc81a9ef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+762ac2afeb9e79b599208871668ab299147c2eab")]
 [assembly: System.Reflection.AssemblyProductAttribute("AKSPrimalityTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AKSPrimalityTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
